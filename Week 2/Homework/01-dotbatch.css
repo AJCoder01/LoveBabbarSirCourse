@@ -1,0 +1,34 @@
+.image-container{
+  width: 28vw;
+  height: 30vh;
+}
+#image{
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+.heading{
+  width: 28vw;
+}
+.horizontal-break{
+  width: 22vw;
+  margin-left: 0px;
+}
+.price{
+  color: rgb(110,150,207);
+  margin-right: 6px
+}
+.deleted-price{
+  color: rgb(96,96,96);
+  margin-right: 6px
+}
+.discount{
+  background-color: rgb(29, 209, 161);
+  color: white;
+  border: none;
+ padding-left: 8px;
+ padding-right: 8px;
+ padding-top: 4px;
+ padding-bottom: 4px;
+ border-radius: 6px;
+}
