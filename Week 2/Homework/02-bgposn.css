@@ -1,0 +1,32 @@
+.div{
+  display: inline-block;
+  color: white;
+}
+.container{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(./assets/02-bgimage.png);
+  background-repeat: no-repeat;
+}
+#A{
+  position: relative;
+}
+#B{
+  position: relative;
+  left: 92.5vw;
+}
+#C{
+  position: relative;
+  top: 97vh;
+  right: 7.5vw;
+}
+#D{
+  position: relative;
+  top: 97vh;
+  left: 81.5vw;
+}
+#E{
+  position: relative;
+  top: 49vh;
+  left: 32vw; 
+}

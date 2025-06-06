@@ -1,0 +1,16 @@
+h1 {
+  /* text-shadow: 5px 5px 5px red;
+  text-align: center;
+  color: black;
+  font-size: 5rem; */
+}
+*{
+  /* background-color: black; */
+}
+
+.box{
+  background-color: aqua;
+  width: 20vw;
+  height: 30vh;
+  box-shadow: 1px 3px 10px rgb(96,96,96);
+}
